@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://euzooyood.outflowapp.com/sitemap.xml
